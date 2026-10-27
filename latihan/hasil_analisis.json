@@ -1,0 +1,80 @@
+{
+    "total_post": 100,
+    "total_user": 10,
+    "rata_rata_kata_judul": 6.13,
+    "jumlah_judul_panjang": 65,
+    "top5_judul_terpanjang": [
+        {
+            "id": 42,
+            "judul": "commodi ullam sint et excepturi error explicabo praesentium voluptas",
+            "penulis": "Chelsey Dietrich",
+            "jumlah_kata": 9
+        },
+        {
+            "id": 60,
+            "judul": "consequatur placeat omnis quisquam quia reprehenderit fugit veritatis facere",
+            "penulis": "Mrs. Dennis Schulist",
+            "jumlah_kata": 9
+        },
+        {
+            "id": 13,
+            "judul": "dolorum ut in voluptas mollitia et saepe quo animi",
+            "penulis": "Ervin Howell",
+            "jumlah_kata": 9
+        },
+        {
+            "id": 3,
+            "judul": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
+            "penulis": "Leanne Graham",
+            "jumlah_kata": 9
+        },
+        {
+            "id": 43,
+            "judul": "eligendi iste nostrum consequuntur adipisci praesentium sit beatae perferendis",
+            "penulis": "Chelsey Dietrich",
+            "jumlah_kata": 9
+        }
+    ],
+    "post_per_user": [
+        {
+            "penulis": "Chelsey Dietrich",
+            "jumlah_post": 10
+        },
+        {
+            "penulis": "Clementina DuBuque",
+            "jumlah_post": 10
+        },
+        {
+            "penulis": "Clementine Bauch",
+            "jumlah_post": 10
+        },
+        {
+            "penulis": "Ervin Howell",
+            "jumlah_post": 10
+        },
+        {
+            "penulis": "Glenna Reichert",
+            "jumlah_post": 10
+        },
+        {
+            "penulis": "Kurtis Weissnat",
+            "jumlah_post": 10
+        },
+        {
+            "penulis": "Leanne Graham",
+            "jumlah_post": 10
+        },
+        {
+            "penulis": "Mrs. Dennis Schulist",
+            "jumlah_post": 10
+        },
+        {
+            "penulis": "Nicholas Runolfsdottir V",
+            "jumlah_post": 10
+        },
+        {
+            "penulis": "Patricia Lebsack",
+            "jumlah_post": 10
+        }
+    ]
+}
