@@ -26,6 +26,8 @@ Repositori ini berisi kumpulan tugas dan latihan pemrograman Python (Soal 1 s.d.
 │   ├── S3V2.png                    # Bukti eksekusi Soal 3 (main.py)
 │   ├── S4.png                      # Bukti eksekusi Soal 4
 │   └── S5.png                      # Bukti eksekusi Soal 5
+├── laporan/
+│   └── LAPORAN.P6.pdf              # Laporan teori Pertemuan 6
 ├── latihan/
 │   ├── soal1_statistik.py          # Soal 1: Fungsi statistik deskriptif
 │   ├── soal2_validasi.py           # Soal 2: Fungsi validasi data berdasarkan schema
