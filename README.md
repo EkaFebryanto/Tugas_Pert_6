@@ -19,6 +19,13 @@ Repositori ini berisi kumpulan tugas dan latihan pemrograman Python (Soal 1 s.d.
 ```text
 ├── .gitignore
 ├── README.md
+├── bukti_eksekusi/
+│   ├── S1.png                      # Bukti eksekusi Soal 1
+│   ├── S2.png                      # Bukti eksekusi Soal 2
+│   ├── S3V1.png                    # Bukti eksekusi Soal 3 (utilitas_akademik.py)
+│   ├── S3V2.png                    # Bukti eksekusi Soal 3 (main.py)
+│   ├── S4.png                      # Bukti eksekusi Soal 4
+│   └── S5.png                      # Bukti eksekusi Soal 5
 ├── latihan/
 │   ├── soal1_statistik.py          # Soal 1: Fungsi statistik deskriptif
 │   ├── soal2_validasi.py           # Soal 2: Fungsi validasi data berdasarkan schema
